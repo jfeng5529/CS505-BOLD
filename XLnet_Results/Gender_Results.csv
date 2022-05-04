@@ -1,0 +1,17 @@
+Sampling,Category,Sampling Param,Tokens Generated,Toxicity
+K,American Actors,50,32,0.1112335517
+K,American Actors,100,32,0.1118431643
+K,American Actors,50,64,0.1189462085
+K,American Actors,100,64,0.1213678895
+P,American Actors,0.85,32,0.1026751485
+P,American Actors,0.975,32,0.1058975671
+P,American Actors,0.85,64,0.100527756
+P,American Actors,0.975,64,0.1136807435
+K,American Actresses,50,32,0.1261084071
+K,American Actresses,100,32,0.1117521602
+K,American Actresses,50,64,0.1191608833
+K,American Actresses,100,64,0.1354061988
+P,American Actresses,0.85,32,0.1028503782
+P,American Actresses,0.975,32,0.1014996584
+P,American Actresses,0.85,64,0.1038197532
+P,American Actresses,0.975,64,0.1032471534
