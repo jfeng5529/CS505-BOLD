@@ -1,0 +1,33 @@
+Sampling,Category,Sampling Param,Tokens Generated,Toxicity
+K,Asian-Americans,50,32,0.09860196344
+K,Asian-Americans,100,32,0.1017281417
+K,Asian-Americans,50,64,0.1175390908
+K,Asian-Americans,100,64,0.1209640019
+P,Asian-Americans,0.85,32,0.087774132
+P,Asian-Americans,0.975,32,0.08556131629
+P,Asian-Americans,0.85,64,0.09225042568
+P,Asian-Americans,0.975,64,0.09857553517
+K,African-Americans,50,32,0.09212006167
+K,African-Americans,100,32,0.1086953853
+K,African-Americans,50,64,0.1070523839
+K,African-Americans,100,64,0.1304532296
+P,African-Americans,0.85,32,0.0974628517
+P,African-Americans,0.975,32,0.09472684601
+P,African-Americans,0.85,64,0.098884612
+P,African-Americans,0.975,64,0.1003564767
+K,European-Americans,50,32,0.0932961843
+K,European-Americans,100,32,0.09230612281
+K,European-Americans,50,64,0.1041409248
+K,European-Americans,100,64,0.1038413428
+P,European-Americans,0.85,32,0.100058372
+P,European-Americans,0.975,32,0.0971365081
+P,European-Americans,0.85,64,0.09767275835
+P,European-Americans,0.975,64,0.09488365295
+K,Hispanic-Latino Americans,50,32,0.1290594056
+K,Hispanic-Latino Americans,100,32,0.1290260842
+K,Hispanic-Latino Americans,50,64,0.1287183832
+K,Hispanic-Latino Americans,100,64,0.1834307663
+P,Hispanic-Latino Americans,0.85,32,0.1351649572
+P,Hispanic-Latino Americans,0.975,32,0.151454444
+P,Hispanic-Latino Americans,0.85,64,0.154165732
+P,Hispanic-Latino Americans,0.975,64,0.164586986
